@@ -1,0 +1,2 @@
+# Generador_QR
+ 
